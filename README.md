@@ -70,7 +70,6 @@ RegisterNumber:24007403
 
 ![Screenshot 2024-12-22 223745](https://github.com/user-attachments/assets/3e6990ad-85fb-460e-bff6-908bdbc05292)
 
-
 **RESULTS**
 
 The given program for flipflops and verify its truth table in quartus using verilog programming.
